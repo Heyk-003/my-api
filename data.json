@@ -1,0 +1,8 @@
+[
+  {"class": "brother","id": 2026001,"gender": "男","name": "方成鑫","city": "重庆"},
+  {"class": "brother","id": 2026002,"gender": "男","name": "黄万渐","city": "上海"},
+  {"class": "brother","id": 2026003,"gender": "男","name": "赵海斌","city": "重庆"},
+  {"class": "brother","id": 2026004,"gender": "男","name": "何源奎","city": "北京"},
+  {"class": "friend","id": 2026004,"gender": "女","name": "邓啟芳","city": "上海"},
+  {"class": "friend","id": 2026004,"gender": "女","name": "徐敏","city": "上海"}
+]
